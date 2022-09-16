@@ -1,0 +1,12 @@
+Rencana belajar webdev Frontend tahap 1 : 
+
+HTML
+
+‌1.Basic HTML
+2. HTML 5
+‌3.Semantic Elements
+‌4.Form Validation
+‌5.SVG & Canvas
+‌6.Information Architecture
+‌7.Accessibility
+‌8.SEO

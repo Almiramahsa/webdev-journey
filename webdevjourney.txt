@@ -2,3 +2,4 @@ Almira Webdev Journey
 - Coding tiap hari, belajar dan praktik
 - Membuat portofolio
 - Membuat webGIS
+- Kerja remote/Freelance

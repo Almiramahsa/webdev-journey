@@ -3,3 +3,4 @@ Almira Webdev Journey
 - Membuat portofolio
 - Membuat webGIS
 - Kerja remote/Freelance
+- Membuat website pribadi
